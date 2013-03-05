@@ -16,7 +16,7 @@ description: NI-DM is an effort by the INCF Neuroimaging Data Sharing task force
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /ni-dm/atom.xml
+subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,11 +26,11 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /ni-dm
+root: /
 #root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public/ni-dm
+destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
