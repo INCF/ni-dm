@@ -2,15 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5dcbe9-368a-4bb3-a310-63205f8feba9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rbenv-version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/index.markdown" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/favicon.png" afterPath="$PROJECT_DIR$/source/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/line-tile.png" afterPath="$PROJECT_DIR$/source/images/line-tile.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_archive.scss" afterPath="$PROJECT_DIR$/sass/partials/_archive.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" afterPath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_blog.scss" afterPath="$PROJECT_DIR$/sass/partials/_blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_colors.scss" afterPath="$PROJECT_DIR$/sass/custom/_colors.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_footer.scss" afterPath="$PROJECT_DIR$/sass/partials/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_header.scss" afterPath="$PROJECT_DIR$/sass/partials/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_layout.scss" afterPath="$PROJECT_DIR$/sass/base/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_navigation.scss" afterPath="$PROJECT_DIR$/sass/partials/_navigation.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_styles.scss" afterPath="$PROJECT_DIR$/sass/custom/_styles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_syntax.scss" afterPath="$PROJECT_DIR$/sass/partials/_syntax.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_theme.scss" afterPath="$PROJECT_DIR$/sass/base/_theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" afterPath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/article.html" afterPath="$PROJECT_DIR$/source/_includes/article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/ender.js" afterPath="$PROJECT_DIR$/source/javascripts/ender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/libs/ender.js" afterPath="$PROJECT_DIR$/source/javascripts/libs/ender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/github.js" afterPath="$PROJECT_DIR$/source/javascripts/github.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="$PROJECT_DIR$/source/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/header.html" afterPath="$PROJECT_DIR$/source/_includes/custom/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/navigation.html" afterPath="$PROJECT_DIR$/source/_includes/custom/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/pinboard.js" afterPath="$PROJECT_DIR$/source/javascripts/pinboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_layouts/post.html" afterPath="$PROJECT_DIR$/source/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/twitter.js" afterPath="$PROJECT_DIR$/source/javascripts/twitter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ni-dm-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362450554101" ignored="false" />
+    <file path="/Dummy.txt" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362453221833" ignored="false" />
     <file path="/navigation.html" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1361313666866" ignored="false" />
     <file path="/index.markdown" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1361314369467" ignored="false" />
-    <file path="/.gitignore" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362450674334" ignored="false" />
+    <file path="/.gitignore" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362452299443" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../COMPANY/TANKTHINKLABS/WWW/octopress/public/sitemap.xml" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362452932842" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../COMPANY/TANKTHINKLABS/WWW/octopress/public/atom.xml" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362452932842" ignored="false" />
+    <file path="/Rakefile" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362453262376" ignored="false" />
+    <file path="/_config.yml" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362453282997" ignored="false" />
+    <file path="/header.html" changelist="2d5dcbe9-368a-4bb3-a310-63205f8feba9" time="1362453357284" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +61,37 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="navigation.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_includes/custom/navigation.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="134" selection-end="134" vertical-scroll-proportion="-2.5">
+            <state line="29" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="-18.125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.09287926">
+            <state line="8" column="13" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_includes/custom/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="328" selection-end="328" vertical-scroll-proportion="0.20634921">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="21" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,13 +119,16 @@
         <option value="$PROJECT_DIR$/source/_includes/custom/navigation.html" />
         <option value="$PROJECT_DIR$/source/specs/index.markdown" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Rakefile" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_includes/custom/header.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1039" />
+    <option name="x" value="927" />
     <option name="y" value="22" />
-    <option name="width" value="871" />
+    <option name="width" value="980" />
     <option name="height" value="1115" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -121,6 +176,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni-dm-gh-pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni-dm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni-dm-gh-pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ni-dm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -141,6 +228,13 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -171,14 +265,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1039" y="22" width="871" height="1115" extended-state="0" />
-    <editor active="true" />
+    <frame x="927" y="22" width="980" height="1115" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848485" sideWeight="0.9588766" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21948609" sideWeight="0.9588766" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -250,28 +344,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_includes/custom/navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="43" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.137344" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -292,31 +364,84 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/custom/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="104" selection-end="135" vertical-scroll-proportion="-5.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/custom/navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="134" selection-end="134" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/specs/index.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="7" selection-start="114" selection-end="114" vertical-scroll-proportion="0.15807962" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.rvmrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.old">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.06349207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.09287926">
+        <state line="13" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.2012384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="743" selection-end="743" vertical-scroll-proportion="-18.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.2667364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/custom/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="328" selection-end="328" vertical-scroll-proportion="0.20634921">
           <folding />
         </state>
       </provider>
